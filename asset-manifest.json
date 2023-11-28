@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/engineering-blog/static/css/main.f855e6bc.css",
+    "main.js": "/engineering-blog/static/js/main.8bc74d75.js",
+    "static/js/787.4283768a.chunk.js": "/engineering-blog/static/js/787.4283768a.chunk.js",
+    "static/media/logo.svg": "/engineering-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/engineering-blog/index.html",
+    "main.f855e6bc.css.map": "/engineering-blog/static/css/main.f855e6bc.css.map",
+    "main.8bc74d75.js.map": "/engineering-blog/static/js/main.8bc74d75.js.map",
+    "787.4283768a.chunk.js.map": "/engineering-blog/static/js/787.4283768a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8bc74d75.js"
+  ]
+}
